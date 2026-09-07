@@ -1,0 +1,5 @@
+PROMPT: Architectural photography of a sprawling desert estate compound in Scottsdale/Santa Fe style reimagined with modern minimalism. Rammed earth walls, Corten steel accents, and dramatic angular rooflines against a vast desert landscape. Shot during the blue hour just after sunset — warm interior lighting contrasts with cool desert twilight. Saguaro cacti and native desert landscaping in foreground. Cinematic wide shot showing the compound's scale against the endless desert horizon.
+
+ASPECT RATIO: 4:3
+USAGE: Featured Projects section — smaller bottom card (col-span-4)
+NOTES: Desert modernism. Should feel like a different climate/aesthetic from the other two projects to show range.

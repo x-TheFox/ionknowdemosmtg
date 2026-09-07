@@ -1,0 +1,5 @@
+PROMPT: Architectural photography of a cantilevered modern cliff house overlooking the Pacific Ocean at golden hour. Dramatic cantilever extends over the cliff edge with infinity pool reflecting the sunset sky. Raw concrete, weathered steel, and expansive glass. Shot from a three-quarter aerial perspective showing both the structure's daring engineering and the breathtaking ocean backdrop. Warm golden light, deep shadows, cinematic grading.
+
+ASPECT RATIO: 16:9
+USAGE: Featured Projects section — large hero card (col-span-8)
+NOTES: This is the showpiece project. Must feel bold and aspirational. The architecture should feel daring and modern.

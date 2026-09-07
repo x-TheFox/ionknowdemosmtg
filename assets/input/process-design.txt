@@ -1,0 +1,5 @@
+PROMPT: Dramatic close-up of a detailed architectural scale model of a modern luxury home, photographed in a design studio. The model is crafted from white card and clear acrylic, sitting on a dark surface. Dramatic side lighting creates long shadows. Behind it, a large monitor displays 3D renders of the same building. Clean, precise, technical atmosphere. Cinematic lighting, shallow depth of field, dark moody studio environment.
+
+ASPECT RATIO: 16:9
+USAGE: Process sticky-stack — Card 2 "Design"
+NOTES: Should convey precision, technical mastery, and the bridge between concept and reality.

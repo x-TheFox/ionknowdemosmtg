@@ -1,0 +1,5 @@
+PROMPT: Vertical architectural photograph of a luxury modern home exterior — full facade view showing the interplay of materials: board-formed concrete, dark stained cedar, and floor-to-ceiling glass. A dramatic cantilevered entry overhang creates deep shadow. Warm interior glow visible through glass. Tall, narrow composition emphasizing verticality and height. Twilight sky. Minimalist landscaping with architectural lighting. Shot from straight-on at entry level. Cinematic, editorial quality.
+
+ASPECT RATIO: 9:16 (vertical/portrait)
+USAGE: Services accordion slice — "Custom Residences"
+NOTES: Vertical format for the accordion slice. Must work as a tall narrow reveal panel.

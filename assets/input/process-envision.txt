@@ -1,0 +1,5 @@
+PROMPT: Close-up editorial photograph of architects reviewing blueprints spread across a large concrete table. Warm directional lighting from a single window source. Hands pointing at detailed floor plans, architectural models visible in the background. The mood is collaborative and focused. Dark wood and concrete studio environment. Cinematic shallow depth of field, warm color grade. Professional editorial style.
+
+ASPECT RATIO: 16:9
+USAGE: Process sticky-stack — Card 1 "Envision"
+NOTES: Should convey the initial vision/consultation phase. Intimate, professional, warm.

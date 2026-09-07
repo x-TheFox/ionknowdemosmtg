@@ -1,0 +1,5 @@
+PROMPT: Ultra-premium architectural photography of a modern luxury residence at twilight. The home features clean geometric lines, floor-to-ceiling glass walls revealing warm interior lighting, concrete and dark wood exterior cladding. Shot from a low angle to emphasize grandeur. Deep indigo sky with warm golden light spilling from the windows. Dramatic clouds. Manicured landscape with subtle landscape lighting. Cinematic quality, 8K resolution, professional real estate photography style. No people. Color grade: deep shadows, warm highlights, teal-orange cinema palette.
+
+ASPECT RATIO: 16:9
+USAGE: Hero section full-bleed background image
+NOTES: This is the first thing visitors see. Must feel like a movie still, not a stock photo. The home should look like a $15M+ custom build.

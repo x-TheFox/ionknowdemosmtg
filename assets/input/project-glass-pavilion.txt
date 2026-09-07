@@ -1,0 +1,5 @@
+PROMPT: Architectural photography of a minimalist glass pavilion residence at dusk, set within a grove of mature oak trees. The structure is a refined glass box with slender black steel framing, floating above a reflecting pool. Interior warmth glows through the transparent walls, contrasting with the cool blue dusk sky and dark silhouettes of surrounding trees. Shot straight-on, symmetrical composition. Moody, intimate, understated luxury.
+
+ASPECT RATIO: 4:3
+USAGE: Featured Projects section — smaller top card (col-span-4)
+NOTES: This should feel intimate and refined compared to the bold cliff house. Contrast between nature and precision engineering.
