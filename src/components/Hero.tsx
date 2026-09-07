@@ -1,5 +1,6 @@
 import { HeroImage } from './HeroImage';
 import { ArrowUpRight } from '@phosphor-icons/react/dist/ssr';
+import { SplitText } from '@/components/ui/SplitText';
 
 export function Hero() {
   return (
@@ -12,7 +13,7 @@ export function Hero() {
       {/* Content */}
       <div className="absolute bottom-0 left-0 z-20 w-full p-8 md:p-16 lg:p-24 max-w-3xl">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tighter leading-[1.1] text-[#F5F0EB]">
-          Building Lasting Legacies
+          <SplitText text="Building Lasting Legacies" delay={1.2} />
         </h1>
         <p className="text-lg text-[#8B7D6B] mt-6 max-w-xl">
           Luxury custom homes conceived with vision, constructed with craft, delivered without compromise.

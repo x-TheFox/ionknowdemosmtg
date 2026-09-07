@@ -19,6 +19,7 @@ export default function FeaturedProjects() {
           {p1 && (
             <Link 
               href={`#`}
+              data-cursor="view"
               className="col-span-1 md:col-span-8 aspect-[4/3] md:aspect-[16/9] relative overflow-hidden group bg-[#141414] block"
             >
               <Image 
@@ -42,6 +43,7 @@ export default function FeaturedProjects() {
             {p2 && (
               <Link 
                 href={`#`}
+                data-cursor="view"
                 className="relative overflow-hidden group bg-[#141414] aspect-[4/3] md:h-1/2 block"
               >
                 <Image 
@@ -63,6 +65,7 @@ export default function FeaturedProjects() {
             {p3 && (
               <Link 
                 href={`#`}
+                data-cursor="view"
                 className="relative overflow-hidden group bg-[#141414] aspect-[4/3] md:h-1/2 block"
               >
                 <Image 
